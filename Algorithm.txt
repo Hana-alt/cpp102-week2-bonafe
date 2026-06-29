@@ -1,0 +1,19 @@
+Laboratory Activity 1: Add Two Numbers
+ALGORITHM
+
+STEP 1: START
+STEP 2: INPUT num1
+STEP 3: INPUT num2
+STEP 4: PROCESS sum = num1 = num2
+STEP 5: DISPLAY sum
+STEP 6: END
+
+PSEUDOCODE
+   START
+   INPUT grade
+   INPUT num2
+   PROCESS sum = num1 = num2
+   DISPLAY sum
+   END
+
+    
