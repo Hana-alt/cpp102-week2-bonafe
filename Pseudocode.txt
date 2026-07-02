@@ -12,12 +12,13 @@ Laboratory Activity 2: Compute the Average of Three grades
 PSEUDOCODE
 
 START.
-INPUT Grade 1.
-INPUT Grade 2.
-INPUT Grade 3.
-PROCESS sum = Grade1 + Grade2 + Grade3.
-DISPLAY sum.
-END.
+INPUT Grade 
+If grade >= 60 THEN
+DISPLAY "Passed"
+ELSE
+DISPLAY "Failed"
+END IF
+END
 
 Laboratory Activity 3: Determine if a Number is Even or Odd
 PSEUDOCODE
